@@ -5,4 +5,4 @@ SHARING MY PERSONAL NOTES:
 
 - 🔭 I’m currently Advancing to above beginner in C language;..
 - 🌱 I’m learning Java and Python ....
-- 📫 Sharing updates at Linkedin 
+- 📫 Sharing updates at  https://www.linkedin.com/in/bhavya-srivastava-b6b01b1b4/ 
