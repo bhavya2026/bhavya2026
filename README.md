@@ -3,6 +3,5 @@ I am Bhavya Srivastava, a Machine Learning enthusiast from India.Currently,I am 
 
 SHARING MY PERSONAL NOTES:
 
-- 🔭 I’m currently Advancing to above beginner in C language;..
-- 🌱 I’m learning Java and Python ....
-- 📫 Sharing updates at  https://www.linkedin.com/in/bhavya-srivastava-b6b01b1b4/ 
+- 🔭 I’m currently Advancing to above beginner in C language;
+- 🌱 I’m learning Java and Python.
