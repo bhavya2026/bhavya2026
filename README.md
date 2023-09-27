@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Bhavya Srivastava, a Machine Learning enthusiast from India.Currently,I am pursuing B.Tech Cse with specialisation in Machine Learning and Artificial Intelligence from IBM at Graphic Era Deemed To Be University,Dehradun,Uttarakhand. 
+I am Bhavya Srivastava,graduated from Graphic Era Deemed To Be University,Dehradun,Uttarakhand. 
 
 SHARING MY PERSONAL NOTES:
 
